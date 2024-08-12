@@ -1,0 +1,16 @@
+#page-background {
+    display: flex;
+}
+
+#header-flexitem {
+    flex: 1;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border-style: solid;
+    border-radius: 30px;
+}
