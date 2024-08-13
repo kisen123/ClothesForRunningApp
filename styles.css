@@ -1,10 +1,14 @@
-#page-background {
-    display: flex;
-}
-
-#header-flexitem {
+.header-flexitem {
     flex: 1;
 }
+
+#current-weather-div {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
 
 header {
     display: flex;
